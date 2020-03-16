@@ -1,3 +1,30 @@
 <resources>
     <string name="menu">Round Menu</string>
+
+    <string-array name="navigation_menu">
+        <item>action_plan</item>
+        <item>document_mood</item>
+        <item>exercises</item>
+        <item>timeline</item>
+    </string-array>
+
+    <string-array name="action_plan">
+        <item>Action Plan</item>
+        <item>ic_m_white_48dp</item>
+    </string-array>
+
+    <string-array name="document_mood">
+        <item>Document Mood</item>
+        <item>ic_m_white_48dp</item>
+    </string-array>
+
+    <string-array name="exercises">
+        <item>Exercises</item>
+        <item>ic_m_white_48dp</item>
+    </string-array>
+
+    <string-array name="timeline">
+        <item>Timeline</item>
+        <item>ic_m_white_48dp</item>
+    </string-array>
 </resources>
